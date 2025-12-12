@@ -1,0 +1,27 @@
+@c, #FBE2D0, #76A6B4
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-image: linear-gradient(to right, #0D5F8F, #0A486D);
+}
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(143, 10, 10, 0.3);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    color: #07324B;
+    text-align: center;
+    box-shadow: 1px 1px 2px rgb( rgba(3, 3, 70, 0.61))
+    }
+h2{
+    color: #0D5F8F;
+}
+p{
+    text-align: justify;
+}
